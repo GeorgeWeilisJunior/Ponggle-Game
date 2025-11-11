@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ball
+  - KillZone
+  - BluePeg
+  - OrangePeg
+  - Peg
+  - Hole
+  - Drum
+  - FxTemporaire
+  - TopWall
+  - DeadZone
+  - OutOfBounds
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - KillZone
+  - Water
+  - UI
+  - Peg
+  - Ceiling
+  - Bounds
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI_Font
+    uniqueID: 2783916485
+    locked: 0
+  - name: HUDWorld
+    uniqueID: 680045871
+    locked: 0

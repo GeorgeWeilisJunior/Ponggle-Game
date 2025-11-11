@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 112023ecd6242ac4ea518eb55f162f17, type: 3}
+  m_Name: Tu Ka La
+  m_EditorClassIdentifier: 
+  characterName: Tu Ka La
+  portrait: {fileID: 0}
+  description: This Squirrel always got what she likes by sheer indominable willpower!
+    Because of that, she can create a brick wall in near seconds?!
+  powerName: Pyramids
+  powerDescription: Membuat tembok disekitar bucket
+  powerEffectPrefab: {fileID: 0}
+  powerSfxKey: TuKaLa
+  fallbackClip: {fileID: 0}
+  launcherDisplayPrefab: {fileID: 2172780759087188463, guid: bd71acababf8ac84baf74446912eab9f, type: 3}

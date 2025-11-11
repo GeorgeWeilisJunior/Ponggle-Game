@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4007127317996914752
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6221616907090282099}
+  - component: {fileID: 6704767734725666578}
+  m_Layer: 0
+  m_Name: Launcher
+  m_TagString: Untagged
+  m_Icon: {fileID: 8418204508859773708, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6221616907090282099
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4007127317996914752}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.02, y: 4.04, z: -0.050339587}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1707795743663177917}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6704767734725666578
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4007127317996914752}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c0598d9bfd247349bf6c9240513b215, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pivot: {fileID: 0}
+  spawnPoint: {fileID: 1707795743663177917}
+  barrel: {fileID: 0}
+  ballPrefab: {fileID: 2865301442866356808, guid: 33fdab339e48b7240a4a4a1cb604de2d, type: 3}
+  aimGuide: {fileID: 0}
+  meteorPrefab: {fileID: 0}
+  minDeg: -135
+  maxDeg: -45
+  radius: 0
+  timeToPeak: 0.45
+  aimDistance: 8
+  tripleSpreadDeg: 10
+  tripleSpeedScale: 1
+  lateralSpawnOffset: 0.05
+  spriteForwardOffset: 90
+  aposdaReadyVfx: {fileID: 0}
+  aposdaMuzzleVfxPrefab: {fileID: 0}
+  aposdaBallTrailVfxPrefab: {fileID: 0}
+  aposdaShootSfxKey: Aposda_Shoot
+  aposdaHitSfxKey: Aposda_Hit
+  aposdaScale: 1.6
+  aposdaFireballSprite: {fileID: 0}
+  aposdaFireballMaterial: {fileID: 0}
+  aposdaFireballTint: {r: 1, g: 1, b: 1, a: 1}
+  aposdaApplyTint: 0
+  aposdaScaleSpriteOnly: 1
+  aposdaTargetRendererNameContains: Ball
+--- !u!1 &6022223933505758493
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1707795743663177917}
+  m_Layer: 0
+  m_Name: SpawnPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1707795743663177917
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6022223933505758493}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6221616907090282099}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 112023ecd6242ac4ea518eb55f162f17, type: 3}
+  m_Name: Nesa Neso Nesda
+  m_EditorClassIdentifier: 
+  characterName: NesoNesaNesda
+  portrait: {fileID: 0}
+  description: 'The Gemini Squirrel, can basically be called Twins? Tripplets? '
+  powerName: Triple Shot
+  powerDescription: Launcher akan menembakkan 3 bola dalam 1 tembakan
+  powerEffectPrefab: {fileID: 0}
+  powerSfxKey: NesaNesoNesda
+  fallbackClip: {fileID: 0}
+  launcherDisplayPrefab: {fileID: 2172780759087188463, guid: a0ff3da81ccb2184c8a7f63713cf315a, type: 3}
