@@ -540,6 +540,7 @@ GameObject:
   - component: {fileID: 38486071}
   - component: {fileID: 38486070}
   - component: {fileID: 38486069}
+  - component: {fileID: 38486074}
   m_Layer: 6
   m_Name: LowBlue_Idle_Circle_07
   m_TagString: Peg
@@ -747,6 +748,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &38486074
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 38486067}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &57894240
 GameObject:
   m_ObjectHideFlags: 0
@@ -862,6 +876,7 @@ GameObject:
   - component: {fileID: 69281645}
   - component: {fileID: 69281644}
   - component: {fileID: 69281643}
+  - component: {fileID: 69281648}
   m_Layer: 6
   m_Name: LowBlue_Idle_Circle_09
   m_TagString: Peg
@@ -1069,6 +1084,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &69281648
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 69281641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &82928052
 GameObject:
   m_ObjectHideFlags: 0
@@ -1083,6 +1111,7 @@ GameObject:
   - component: {fileID: 82928056}
   - component: {fileID: 82928055}
   - component: {fileID: 82928054}
+  - component: {fileID: 82928059}
   m_Layer: 6
   m_Name: LowOrange_Circle_00
   m_TagString: Peg
@@ -1290,6 +1319,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &82928059
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 82928052}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &99180109
 GameObject:
   m_ObjectHideFlags: 0
@@ -4529,6 +4571,7 @@ GameObject:
   - component: {fileID: 247822433}
   - component: {fileID: 247822432}
   - component: {fileID: 247822431}
+  - component: {fileID: 247822436}
   m_Layer: 6
   m_Name: LowRoundedBlue_Circle_01
   m_TagString: Peg
@@ -4736,6 +4779,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &247822436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 247822429}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &252318250
 GameObject:
   m_ObjectHideFlags: 0
@@ -6827,6 +6883,7 @@ GameObject:
   - component: {fileID: 348067684}
   - component: {fileID: 348067683}
   - component: {fileID: 348067682}
+  - component: {fileID: 348067687}
   m_Layer: 6
   m_Name: LowBlue_Idle_Circle_02
   m_TagString: Peg
@@ -7034,6 +7091,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &348067687
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 348067680}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &360216854
 GameObject:
   m_ObjectHideFlags: 0
@@ -8608,6 +8678,7 @@ GameObject:
   - component: {fileID: 413466553}
   - component: {fileID: 413466552}
   - component: {fileID: 413466551}
+  - component: {fileID: 413466556}
   m_Layer: 6
   m_Name: LowRoundedBlue_Circle_10
   m_TagString: Peg
@@ -8815,6 +8886,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &413466556
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 413466549}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &420639263
 GameObject:
   m_ObjectHideFlags: 0
@@ -10243,6 +10327,7 @@ GameObject:
   - component: {fileID: 493292421}
   - component: {fileID: 493292420}
   - component: {fileID: 493292419}
+  - component: {fileID: 493292424}
   m_Layer: 6
   m_Name: LowOrange_Circle_03
   m_TagString: Peg
@@ -10450,6 +10535,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &493292424
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 493292417}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &493640511
 GameObject:
   m_ObjectHideFlags: 0
@@ -12719,6 +12817,7 @@ GameObject:
   - component: {fileID: 580393131}
   - component: {fileID: 580393130}
   - component: {fileID: 580393129}
+  - component: {fileID: 580393134}
   m_Layer: 6
   m_Name: LowRoundedBlue_Circle_01
   m_TagString: Peg
@@ -12926,6 +13025,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &580393134
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 580393127}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &590302266
 GameObject:
   m_ObjectHideFlags: 0
@@ -13445,6 +13557,7 @@ GameObject:
   - component: {fileID: 609598438}
   - component: {fileID: 609598437}
   - component: {fileID: 609598436}
+  - component: {fileID: 609598441}
   m_Layer: 6
   m_Name: LowBlue_Idle_Circle_02
   m_TagString: Peg
@@ -13652,6 +13765,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &609598441
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 609598434}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &614576859
 GameObject:
   m_ObjectHideFlags: 0
@@ -15158,6 +15284,8 @@ MonoBehaviour:
   lowBall: {fileID: 6200000, guid: b4389fa29ac4e3e42b54b233d3a2c714, type: 2}
   ballTag: Ball
   gravityScaleInside: 0
+  freezeRotationInside: 1
+  angularDragInside: 12
 --- !u!58 &712168747
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -15466,6 +15594,7 @@ GameObject:
   - component: {fileID: 735275309}
   - component: {fileID: 735275308}
   - component: {fileID: 735275307}
+  - component: {fileID: 735275312}
   m_Layer: 6
   m_Name: LowBlue_Idle_Circle_01
   m_TagString: Peg
@@ -15673,6 +15802,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &735275312
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 735275305}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &744323522
 GameObject:
   m_ObjectHideFlags: 0
@@ -17316,6 +17458,7 @@ GameObject:
   - component: {fileID: 809118767}
   - component: {fileID: 809118766}
   - component: {fileID: 809118765}
+  - component: {fileID: 809118770}
   m_Layer: 6
   m_Name: LowBlue_Idle_Circle_05
   m_TagString: Peg
@@ -17523,6 +17666,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &809118770
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 809118763}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &816003058
 GameObject:
   m_ObjectHideFlags: 0
@@ -18850,6 +19006,7 @@ GameObject:
   - component: {fileID: 871588401}
   - component: {fileID: 871588400}
   - component: {fileID: 871588399}
+  - component: {fileID: 871588404}
   m_Layer: 6
   m_Name: LowOrange_Circle_00
   m_TagString: Peg
@@ -19057,6 +19214,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &871588404
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 871588397}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &888741827
 GameObject:
   m_ObjectHideFlags: 0
@@ -21603,6 +21773,7 @@ GameObject:
   - component: {fileID: 992501093}
   - component: {fileID: 992501092}
   - component: {fileID: 992501091}
+  - component: {fileID: 992501096}
   m_Layer: 6
   m_Name: LowRoundedBlue_Circle_11
   m_TagString: Peg
@@ -21810,6 +21981,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &992501096
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 992501089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &994570138
 GameObject:
   m_ObjectHideFlags: 0
@@ -22107,6 +22291,7 @@ GameObject:
   - component: {fileID: 1022748893}
   - component: {fileID: 1022748892}
   - component: {fileID: 1022748891}
+  - component: {fileID: 1022748896}
   m_Layer: 6
   m_Name: LowRoundedBlue_Circle_03
   m_TagString: Peg
@@ -22314,6 +22499,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1022748896
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1022748889}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &1025022116
 GameObject:
   m_ObjectHideFlags: 0
@@ -22631,6 +22829,7 @@ GameObject:
   - component: {fileID: 1034768028}
   - component: {fileID: 1034768027}
   - component: {fileID: 1034768026}
+  - component: {fileID: 1034768031}
   m_Layer: 6
   m_Name: LowRoundedOrange_Circle_06
   m_TagString: Peg
@@ -22838,6 +23037,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1034768031
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1034768024}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &1037283014
 GameObject:
   m_ObjectHideFlags: 0
@@ -23862,6 +24074,7 @@ GameObject:
   - component: {fileID: 1119954474}
   - component: {fileID: 1119954473}
   - component: {fileID: 1119954472}
+  - component: {fileID: 1119954477}
   m_Layer: 6
   m_Name: LowRoundedBlue_Circle_00
   m_TagString: Peg
@@ -24069,6 +24282,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1119954477
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1119954470}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &1123179940
 GameObject:
   m_ObjectHideFlags: 0
@@ -24992,6 +25218,7 @@ GameObject:
   - component: {fileID: 1165332936}
   - component: {fileID: 1165332935}
   - component: {fileID: 1165332934}
+  - component: {fileID: 1165332939}
   m_Layer: 6
   m_Name: LowBlue_Idle_Circle_04
   m_TagString: Peg
@@ -25199,6 +25426,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1165332939
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1165332932}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &1166174464
 GameObject:
   m_ObjectHideFlags: 0
@@ -26324,6 +26564,7 @@ GameObject:
   - component: {fileID: 1248419647}
   - component: {fileID: 1248419646}
   - component: {fileID: 1248419645}
+  - component: {fileID: 1248419650}
   m_Layer: 6
   m_Name: LowBlue_Idle_Circle_02
   m_TagString: Peg
@@ -26531,6 +26772,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1248419650
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1248419643}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &1248727820
 GameObject:
   m_ObjectHideFlags: 0
@@ -29353,6 +29607,7 @@ GameObject:
   - component: {fileID: 1424324953}
   - component: {fileID: 1424324952}
   - component: {fileID: 1424324951}
+  - component: {fileID: 1424324956}
   m_Layer: 6
   m_Name: LowRoundedOrange_Circle_12
   m_TagString: Peg
@@ -29560,6 +29815,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1424324956
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1424324949}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &1424469155
 GameObject:
   m_ObjectHideFlags: 0
@@ -35971,6 +36239,7 @@ GameObject:
   - component: {fileID: 1860261887}
   - component: {fileID: 1860261886}
   - component: {fileID: 1860261885}
+  - component: {fileID: 1860261890}
   m_Layer: 6
   m_Name: LowRoundedBlue_Circle_03
   m_TagString: Peg
@@ -36178,6 +36447,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1860261890
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1860261883}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &1860558875
 GameObject:
   m_ObjectHideFlags: 0
@@ -37342,6 +37624,8 @@ MonoBehaviour:
   lowBall: {fileID: 6200000, guid: b4389fa29ac4e3e42b54b233d3a2c714, type: 2}
   ballTag: Ball
   gravityScaleInside: 0
+  freezeRotationInside: 1
+  angularDragInside: 12
 --- !u!60 &1908032174
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -39569,6 +39853,7 @@ GameObject:
   - component: {fileID: 2071054701}
   - component: {fileID: 2071054700}
   - component: {fileID: 2071054699}
+  - component: {fileID: 2071054704}
   m_Layer: 6
   m_Name: LowBlue_Idle_Circle_08
   m_TagString: Peg
@@ -39776,6 +40061,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &2071054704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2071054697}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &2073745234
 GameObject:
   m_ObjectHideFlags: 0
@@ -40464,6 +40762,8 @@ MonoBehaviour:
   lowBall: {fileID: 0}
   ballTag: Ball
   gravityScaleInside: 0
+  freezeRotationInside: 1
+  angularDragInside: 12
 --- !u!60 &2076789744
 PolygonCollider2D:
   m_ObjectHideFlags: 0

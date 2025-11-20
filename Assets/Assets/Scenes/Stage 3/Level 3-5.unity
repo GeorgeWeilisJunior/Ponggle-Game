@@ -653,6 +653,7 @@ GameObject:
   - component: {fileID: 22981294}
   - component: {fileID: 22981293}
   - component: {fileID: 22981292}
+  - component: {fileID: 22981297}
   m_Layer: 6
   m_Name: LowBlue_Idle_Box_02 (3)
   m_TagString: Peg
@@ -860,6 +861,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &22981297
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 22981290}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &27826973
 GameObject:
   m_ObjectHideFlags: 0
@@ -2242,6 +2256,7 @@ GameObject:
   - component: {fileID: 91368119}
   - component: {fileID: 91368118}
   - component: {fileID: 91368117}
+  - component: {fileID: 91368122}
   m_Layer: 6
   m_Name: LowBlue_Idle_Box_01 (5)
   m_TagString: Peg
@@ -2449,6 +2464,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &91368122
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 91368115}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &91919665
 GameObject:
   m_ObjectHideFlags: 0
@@ -3473,6 +3501,7 @@ GameObject:
   - component: {fileID: 103430902}
   - component: {fileID: 103430901}
   - component: {fileID: 103430900}
+  - component: {fileID: 103430905}
   m_Layer: 6
   m_Name: LowBlue_Idle_Box_02 (2)
   m_TagString: Peg
@@ -3680,6 +3709,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &103430905
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 103430898}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &108183108
 GameObject:
   m_ObjectHideFlags: 0
@@ -4098,6 +4140,7 @@ GameObject:
   - component: {fileID: 120086807}
   - component: {fileID: 120086806}
   - component: {fileID: 120086805}
+  - component: {fileID: 120086810}
   m_Layer: 6
   m_Name: LowOrange_Box_00
   m_TagString: Peg
@@ -4305,6 +4348,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &120086810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 120086803}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &125057236
 GameObject:
   m_ObjectHideFlags: 0
@@ -5935,6 +5991,7 @@ GameObject:
   - component: {fileID: 184781470}
   - component: {fileID: 184781469}
   - component: {fileID: 184781468}
+  - component: {fileID: 184781473}
   m_Layer: 6
   m_Name: LowBlue_Idle_Box_02
   m_TagString: Peg
@@ -6142,6 +6199,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &184781473
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 184781466}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &218924041
 GameObject:
   m_ObjectHideFlags: 0
@@ -7748,6 +7818,7 @@ GameObject:
   - component: {fileID: 332247157}
   - component: {fileID: 332247156}
   - component: {fileID: 332247155}
+  - component: {fileID: 332247160}
   m_Layer: 6
   m_Name: LowBlue_Idle_Box_03 (4)
   m_TagString: Peg
@@ -7955,6 +8026,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &332247160
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 332247153}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &342541455
 GameObject:
   m_ObjectHideFlags: 0
@@ -8171,6 +8255,7 @@ GameObject:
   - component: {fileID: 348597410}
   - component: {fileID: 348597409}
   - component: {fileID: 348597408}
+  - component: {fileID: 348597413}
   m_Layer: 6
   m_Name: LowOrange_Box_00 (1)
   m_TagString: Peg
@@ -8378,6 +8463,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &348597413
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 348597406}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1001 &354643860
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12172,6 +12270,7 @@ GameObject:
   - component: {fileID: 470643923}
   - component: {fileID: 470643922}
   - component: {fileID: 470643921}
+  - component: {fileID: 470643926}
   m_Layer: 6
   m_Name: LowBlue_Idle_Box_02 (1)
   m_TagString: Peg
@@ -12379,6 +12478,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &470643926
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 470643919}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &477080727
 GameObject:
   m_ObjectHideFlags: 0
@@ -13981,6 +14093,7 @@ GameObject:
   - component: {fileID: 541074529}
   - component: {fileID: 541074528}
   - component: {fileID: 541074527}
+  - component: {fileID: 541074532}
   m_Layer: 6
   m_Name: LowBlue_Idle_Box_01 (4)
   m_TagString: Peg
@@ -14188,6 +14301,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &541074532
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 541074525}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &548680182
 GameObject:
   m_ObjectHideFlags: 0
@@ -15919,6 +16045,7 @@ GameObject:
   - component: {fileID: 607224976}
   - component: {fileID: 607224975}
   - component: {fileID: 607224974}
+  - component: {fileID: 607224979}
   m_Layer: 6
   m_Name: LowOrange_Box_00 (5)
   m_TagString: Peg
@@ -16126,6 +16253,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &607224979
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 607224972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &609969481
 GameObject:
   m_ObjectHideFlags: 0
@@ -17150,6 +17290,7 @@ GameObject:
   - component: {fileID: 703205880}
   - component: {fileID: 703205879}
   - component: {fileID: 703205878}
+  - component: {fileID: 703205883}
   m_Layer: 6
   m_Name: LowOrange_Box_00 (4)
   m_TagString: Peg
@@ -17357,6 +17498,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &703205883
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 703205876}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &707136277
 GameObject:
   m_ObjectHideFlags: 0
@@ -17371,6 +17525,7 @@ GameObject:
   - component: {fileID: 707136281}
   - component: {fileID: 707136280}
   - component: {fileID: 707136279}
+  - component: {fileID: 707136284}
   m_Layer: 6
   m_Name: LowBlue_Idle_Box_01
   m_TagString: Peg
@@ -17578,6 +17733,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &707136284
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 707136277}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &717220378
 GameObject:
   m_ObjectHideFlags: 0
@@ -19635,6 +19803,7 @@ GameObject:
   - component: {fileID: 798749641}
   - component: {fileID: 798749640}
   - component: {fileID: 798749639}
+  - component: {fileID: 798749644}
   m_Layer: 6
   m_Name: LowBlue_Idle_Box_02 (5)
   m_TagString: Peg
@@ -19842,6 +20011,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &798749644
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 798749637}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &799686602
 GameObject:
   m_ObjectHideFlags: 0
@@ -23985,6 +24167,7 @@ GameObject:
   - component: {fileID: 996367599}
   - component: {fileID: 996367598}
   - component: {fileID: 996367597}
+  - component: {fileID: 996367602}
   m_Layer: 6
   m_Name: LowBlue_Idle_Box_01 (1)
   m_TagString: Peg
@@ -24192,6 +24375,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &996367602
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 996367595}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &1003591713
 GameObject:
   m_ObjectHideFlags: 0
@@ -30197,6 +30393,7 @@ GameObject:
   - component: {fileID: 1303135481}
   - component: {fileID: 1303135480}
   - component: {fileID: 1303135479}
+  - component: {fileID: 1303135484}
   m_Layer: 6
   m_Name: LowOrange_Box_00 (2)
   m_TagString: Peg
@@ -30404,6 +30601,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1303135484
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1303135477}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &1307277750
 GameObject:
   m_ObjectHideFlags: 0
@@ -31933,6 +32143,7 @@ GameObject:
   - component: {fileID: 1370197949}
   - component: {fileID: 1370197948}
   - component: {fileID: 1370197947}
+  - component: {fileID: 1370197952}
   m_Layer: 6
   m_Name: LowBlue_Idle_Box_03 (5)
   m_TagString: Peg
@@ -32140,6 +32351,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1370197952
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1370197945}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &1378027761
 GameObject:
   m_ObjectHideFlags: 0
@@ -33467,6 +33691,7 @@ GameObject:
   - component: {fileID: 1421856670}
   - component: {fileID: 1421856669}
   - component: {fileID: 1421856668}
+  - component: {fileID: 1421856673}
   m_Layer: 6
   m_Name: LowBlue_Idle_Box_02 (4)
   m_TagString: Peg
@@ -33674,6 +33899,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1421856673
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1421856666}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &1429622786
 GameObject:
   m_ObjectHideFlags: 0
@@ -34395,6 +34633,7 @@ GameObject:
   - component: {fileID: 1450507741}
   - component: {fileID: 1450507740}
   - component: {fileID: 1450507739}
+  - component: {fileID: 1450507744}
   m_Layer: 6
   m_Name: LowBlue_Idle_Box_01 (3)
   m_TagString: Peg
@@ -34602,6 +34841,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1450507744
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1450507737}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &1451710772
 GameObject:
   m_ObjectHideFlags: 0
@@ -36232,6 +36484,7 @@ GameObject:
   - component: {fileID: 1495255771}
   - component: {fileID: 1495255770}
   - component: {fileID: 1495255769}
+  - component: {fileID: 1495255774}
   m_Layer: 6
   m_Name: LowOrange_Box_00 (3)
   m_TagString: Peg
@@ -36439,6 +36692,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1495255774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1495255767}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &1515285893
 GameObject:
   m_ObjectHideFlags: 0
@@ -39918,6 +40184,7 @@ GameObject:
   - component: {fileID: 1695661100}
   - component: {fileID: 1695661099}
   - component: {fileID: 1695661098}
+  - component: {fileID: 1695661103}
   m_Layer: 6
   m_Name: LowBlue_Idle_Box_03 (1)
   m_TagString: Peg
@@ -40125,6 +40392,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1695661103
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1695661096}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &1699029611
 GameObject:
   m_ObjectHideFlags: 0
@@ -44028,6 +44308,7 @@ GameObject:
   - component: {fileID: 2003190609}
   - component: {fileID: 2003190608}
   - component: {fileID: 2003190607}
+  - component: {fileID: 2003190612}
   m_Layer: 6
   m_Name: LowBlue_Idle_Box_01 (2)
   m_TagString: Peg
@@ -44235,6 +44516,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &2003190612
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2003190605}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &2033116765
 GameObject:
   m_ObjectHideFlags: 0
@@ -45404,6 +45698,7 @@ GameObject:
   - component: {fileID: 2080393976}
   - component: {fileID: 2080393975}
   - component: {fileID: 2080393974}
+  - component: {fileID: 2080393979}
   m_Layer: 6
   m_Name: LowBlue_Idle_Box_03 (2)
   m_TagString: Peg
@@ -45611,6 +45906,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &2080393979
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2080393972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &2081006487
 GameObject:
   m_ObjectHideFlags: 0
@@ -46433,6 +46741,7 @@ GameObject:
   - component: {fileID: 2086613718}
   - component: {fileID: 2086613717}
   - component: {fileID: 2086613716}
+  - component: {fileID: 2086613721}
   m_Layer: 6
   m_Name: LowBlue_Idle_Box_03
   m_TagString: Peg
@@ -46640,6 +46949,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &2086613721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2086613714}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &2091079589
 GameObject:
   m_ObjectHideFlags: 0
@@ -48001,6 +48323,7 @@ GameObject:
   - component: {fileID: 2138511454}
   - component: {fileID: 2138511453}
   - component: {fileID: 2138511452}
+  - component: {fileID: 2138511457}
   m_Layer: 6
   m_Name: LowBlue_Idle_Box_03 (3)
   m_TagString: Peg
@@ -48208,6 +48531,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &2138511457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2138511450}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &2139756444
 GameObject:
   m_ObjectHideFlags: 0

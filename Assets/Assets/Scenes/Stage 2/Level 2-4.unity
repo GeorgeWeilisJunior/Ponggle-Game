@@ -136,6 +136,7 @@ GameObject:
   - component: {fileID: 3772765}
   - component: {fileID: 3772764}
   - component: {fileID: 3772763}
+  - component: {fileID: 3772768}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Circle_09
   m_TagString: Peg
@@ -340,6 +341,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &3772768
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3772761}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &6117414
 GameObject:
   m_ObjectHideFlags: 0
@@ -1682,6 +1696,7 @@ GameObject:
   - component: {fileID: 88945913}
   - component: {fileID: 88945912}
   - component: {fileID: 88945911}
+  - component: {fileID: 88945916}
   m_Layer: 6
   m_Name: Blue_RoundedBrick_Circle_02
   m_TagString: Peg
@@ -1913,6 +1928,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &88945916
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 88945909}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 4
 --- !u!1 &98650769
 GameObject:
   m_ObjectHideFlags: 0
@@ -1927,6 +1955,7 @@ GameObject:
   - component: {fileID: 98650773}
   - component: {fileID: 98650772}
   - component: {fileID: 98650771}
+  - component: {fileID: 98650776}
   m_Layer: 6
   m_Name: Blue_RoundedBrick_Circle_01 (1)
   m_TagString: Peg
@@ -2158,6 +2187,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &98650776
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 98650769}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 4
 --- !u!1 &101184237
 GameObject:
   m_ObjectHideFlags: 0
@@ -2374,6 +2416,7 @@ GameObject:
   - component: {fileID: 113645001}
   - component: {fileID: 113645000}
   - component: {fileID: 113644999}
+  - component: {fileID: 113645004}
   m_Layer: 6
   m_Name: Blue_RoundedBrick_Circle_02 (1)
   m_TagString: Peg
@@ -2605,6 +2648,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &113645004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 113644997}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 4
 --- !u!1 &116136913
 GameObject:
   m_ObjectHideFlags: 0
@@ -3427,6 +3483,7 @@ GameObject:
   - component: {fileID: 144648927}
   - component: {fileID: 144648926}
   - component: {fileID: 144648925}
+  - component: {fileID: 144648930}
   m_Layer: 6
   m_Name: Blue_RoundedBrick_Circle_00
   m_TagString: Peg
@@ -3658,6 +3715,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &144648930
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 144648923}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &152375245
 GameObject:
   m_ObjectHideFlags: 0
@@ -4076,6 +4146,7 @@ GameObject:
   - component: {fileID: 172487196}
   - component: {fileID: 172487195}
   - component: {fileID: 172487194}
+  - component: {fileID: 172487199}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Circle_07
   m_TagString: Peg
@@ -4280,6 +4351,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &172487199
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 172487192}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &175394498
 GameObject:
   m_ObjectHideFlags: 0
@@ -5866,6 +5950,7 @@ GameObject:
   - component: {fileID: 258401724}
   - component: {fileID: 258401723}
   - component: {fileID: 258401722}
+  - component: {fileID: 258401727}
   m_Layer: 6
   m_Name: RoundedBlue_Circle_09 (1)
   m_TagString: Peg
@@ -6097,6 +6182,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &258401727
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 258401720}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 4
 --- !u!1 &258799133
 GameObject:
   m_ObjectHideFlags: 0
@@ -6919,6 +7017,7 @@ GameObject:
   - component: {fileID: 274050108}
   - component: {fileID: 274050107}
   - component: {fileID: 274050106}
+  - component: {fileID: 274050111}
   m_Layer: 6
   m_Name: RoundedBlue_Circle_04
   m_TagString: Peg
@@ -7150,6 +7249,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &274050111
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 274050104}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &292477789
 GameObject:
   m_ObjectHideFlags: 0
@@ -7199,6 +7311,8 @@ MonoBehaviour:
   lowBall: {fileID: 6200000, guid: b4389fa29ac4e3e42b54b233d3a2c714, type: 2}
   ballTag: Ball
   gravityScaleInside: 0
+  freezeRotationInside: 1
+  angularDragInside: 12
 --- !u!58 &292477792
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -8157,6 +8271,7 @@ GameObject:
   - component: {fileID: 339899392}
   - component: {fileID: 339899391}
   - component: {fileID: 339899390}
+  - component: {fileID: 339899395}
   m_Layer: 0
   m_Name: BrickOrange_Idle 1_Circle_08
   m_TagString: Peg
@@ -8361,6 +8476,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &339899395
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 339899388}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &341309698
 GameObject:
   m_ObjectHideFlags: 0
@@ -10351,6 +10479,7 @@ GameObject:
   - component: {fileID: 425826301}
   - component: {fileID: 425826300}
   - component: {fileID: 425826299}
+  - component: {fileID: 425826304}
   m_Layer: 6
   m_Name: Blue_RoundedBrick_Circle_04
   m_TagString: Peg
@@ -10582,6 +10711,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &425826304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 425826297}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 4
 --- !u!1 &427444000
 GameObject:
   m_ObjectHideFlags: 0
@@ -11505,6 +11647,7 @@ GameObject:
   - component: {fileID: 467201110}
   - component: {fileID: 467201109}
   - component: {fileID: 467201108}
+  - component: {fileID: 467201113}
   m_Layer: 6
   m_Name: Blue_RoundedBrick_Circle_00
   m_TagString: Peg
@@ -11736,6 +11879,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &467201113
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 467201106}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &482788969
 GameObject:
   m_ObjectHideFlags: 0
@@ -12053,6 +12209,7 @@ GameObject:
   - component: {fileID: 489108943}
   - component: {fileID: 489108942}
   - component: {fileID: 489108941}
+  - component: {fileID: 489108946}
   m_Layer: 6
   m_Name: Blue_RoundedBrick_Circle_07
   m_TagString: Peg
@@ -12284,6 +12441,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &489108946
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 489108939}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 4
 --- !u!1001 &491272627
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13703,6 +13873,7 @@ GameObject:
   - component: {fileID: 600241459}
   - component: {fileID: 600241458}
   - component: {fileID: 600241457}
+  - component: {fileID: 600241462}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Circle_12
   m_TagString: Peg
@@ -13907,6 +14078,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &600241462
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 600241455}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &606989821
 GameObject:
   m_ObjectHideFlags: 0
@@ -14224,6 +14408,7 @@ GameObject:
   - component: {fileID: 628273918}
   - component: {fileID: 628273917}
   - component: {fileID: 628273916}
+  - component: {fileID: 628273921}
   m_Layer: 6
   m_Name: Blue_RoundedBrick_Circle_06
   m_TagString: Peg
@@ -14455,6 +14640,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &628273921
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 628273914}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &628296748
 GameObject:
   m_ObjectHideFlags: 0
@@ -14570,6 +14768,7 @@ GameObject:
   - component: {fileID: 638189816}
   - component: {fileID: 638189815}
   - component: {fileID: 638189814}
+  - component: {fileID: 638189819}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Circle_14
   m_TagString: Peg
@@ -14774,6 +14973,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &638189819
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 638189812}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &639692523
 GameObject:
   m_ObjectHideFlags: 0
@@ -14788,6 +15000,7 @@ GameObject:
   - component: {fileID: 639692527}
   - component: {fileID: 639692526}
   - component: {fileID: 639692525}
+  - component: {fileID: 639692530}
   m_Layer: 6
   m_Name: Blue_RoundedBrick_Circle_03 (1)
   m_TagString: Peg
@@ -15019,6 +15232,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &639692530
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 639692523}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 4
 --- !u!1 &642883788
 GameObject:
   m_ObjectHideFlags: 0
@@ -15033,6 +15259,7 @@ GameObject:
   - component: {fileID: 642883792}
   - component: {fileID: 642883791}
   - component: {fileID: 642883790}
+  - component: {fileID: 642883795}
   m_Layer: 6
   m_Name: RoundedOrange_Circle_01
   m_TagString: Peg
@@ -15264,6 +15491,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &642883795
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 642883788}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &649524586
 GameObject:
   m_ObjectHideFlags: 0
@@ -15620,6 +15860,7 @@ GameObject:
   - component: {fileID: 651985785}
   - component: {fileID: 651985784}
   - component: {fileID: 651985783}
+  - component: {fileID: 651985788}
   m_Layer: 6
   m_Name: Blue_RoundedBrick_Circle_05
   m_TagString: Peg
@@ -15851,6 +16092,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &651985788
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 651985781}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 4
 --- !u!1 &657497224
 GameObject:
   m_ObjectHideFlags: 0
@@ -15865,6 +16119,7 @@ GameObject:
   - component: {fileID: 657497228}
   - component: {fileID: 657497227}
   - component: {fileID: 657497226}
+  - component: {fileID: 657497231}
   m_Layer: 6
   m_Name: RoundedBlue_Circle_11
   m_TagString: Peg
@@ -16096,6 +16351,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &657497231
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 657497224}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 4
 --- !u!1 &661899577
 GameObject:
   m_ObjectHideFlags: 0
@@ -16716,6 +16984,7 @@ GameObject:
   - component: {fileID: 680197953}
   - component: {fileID: 680197952}
   - component: {fileID: 680197951}
+  - component: {fileID: 680197956}
   m_Layer: 6
   m_Name: RoundedOrange_Circle_10
   m_TagString: Peg
@@ -16947,6 +17216,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &680197956
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 680197949}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 4
 --- !u!1 &680894064
 GameObject:
   m_ObjectHideFlags: 0
@@ -18553,6 +18835,7 @@ GameObject:
   - component: {fileID: 757276239}
   - component: {fileID: 757276238}
   - component: {fileID: 757276237}
+  - component: {fileID: 757276242}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Circle_10
   m_TagString: Peg
@@ -18757,6 +19040,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &757276242
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 757276235}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &767089310
 GameObject:
   m_ObjectHideFlags: 0
@@ -18973,6 +19269,7 @@ GameObject:
   - component: {fileID: 781897616}
   - component: {fileID: 781897615}
   - component: {fileID: 781897614}
+  - component: {fileID: 781897619}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Circle_15
   m_TagString: Peg
@@ -19177,6 +19474,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &781897619
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 781897612}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &806890499
 GameObject:
   m_ObjectHideFlags: 0
@@ -19191,6 +19501,7 @@ GameObject:
   - component: {fileID: 806890503}
   - component: {fileID: 806890502}
   - component: {fileID: 806890501}
+  - component: {fileID: 806890506}
   m_Layer: 6
   m_Name: Blue_RoundedBrick_Circle_00 (1)
   m_TagString: Peg
@@ -19422,6 +19733,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &806890506
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 806890499}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 4
 --- !u!1 &806959822
 GameObject:
   m_ObjectHideFlags: 0
@@ -19739,6 +20063,7 @@ GameObject:
   - component: {fileID: 818843634}
   - component: {fileID: 818843633}
   - component: {fileID: 818843632}
+  - component: {fileID: 818843637}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Circle_00
   m_TagString: Peg
@@ -19943,6 +20268,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &818843637
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 818843630}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &827261687
 GameObject:
   m_ObjectHideFlags: 0
@@ -20800,6 +21138,8 @@ MonoBehaviour:
   lowBall: {fileID: 6200000, guid: b4389fa29ac4e3e42b54b233d3a2c714, type: 2}
   ballTag: Ball
   gravityScaleInside: 0
+  freezeRotationInside: 1
+  angularDragInside: 12
 --- !u!60 &899634343
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -21178,6 +21518,7 @@ GameObject:
   - component: {fileID: 956708141}
   - component: {fileID: 956708140}
   - component: {fileID: 956708139}
+  - component: {fileID: 956708144}
   m_Layer: 6
   m_Name: Blue_RoundedBrick_Circle_08 (1)
   m_TagString: Peg
@@ -21409,6 +21750,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &956708144
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 956708137}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 4
 --- !u!1 &967787508
 GameObject:
   m_ObjectHideFlags: 0
@@ -21726,6 +22080,7 @@ GameObject:
   - component: {fileID: 1013834152}
   - component: {fileID: 1013834151}
   - component: {fileID: 1013834150}
+  - component: {fileID: 1013834155}
   m_Layer: 6
   m_Name: RoundedBlue_Circle_04
   m_TagString: Peg
@@ -21957,6 +22312,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1013834155
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1013834148}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &1020152200
 GameObject:
   m_ObjectHideFlags: 0
@@ -22880,6 +23248,7 @@ GameObject:
   - component: {fileID: 1036804215}
   - component: {fileID: 1036804214}
   - component: {fileID: 1036804213}
+  - component: {fileID: 1036804218}
   m_Layer: 6
   m_Name: Blue_RoundedBrick_Circle_03
   m_TagString: Peg
@@ -23111,6 +23480,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1036804218
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1036804211}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 4
 --- !u!1 &1039230348
 GameObject:
   m_ObjectHideFlags: 0
@@ -23366,6 +23748,7 @@ GameObject:
   - component: {fileID: 1053833801}
   - component: {fileID: 1053833800}
   - component: {fileID: 1053833799}
+  - component: {fileID: 1053833804}
   m_Layer: 6
   m_Name: Blue_RoundedBrick_Circle_08
   m_TagString: Peg
@@ -23597,6 +23980,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1053833804
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1053833797}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 4
 --- !u!1 &1059457461
 GameObject:
   m_ObjectHideFlags: 0
@@ -23914,6 +24310,7 @@ GameObject:
   - component: {fileID: 1067676769}
   - component: {fileID: 1067676768}
   - component: {fileID: 1067676767}
+  - component: {fileID: 1067676772}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Circle_06
   m_TagString: Peg
@@ -24118,6 +24515,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1067676772
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1067676765}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &1072268473
 GameObject:
   m_ObjectHideFlags: 0
@@ -24839,6 +25249,7 @@ GameObject:
   - component: {fileID: 1097081371}
   - component: {fileID: 1097081370}
   - component: {fileID: 1097081369}
+  - component: {fileID: 1097081374}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Circle_03
   m_TagString: Peg
@@ -25043,6 +25454,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1097081374
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1097081367}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &1101074709
 GameObject:
   m_ObjectHideFlags: 0
@@ -25158,6 +25582,7 @@ GameObject:
   - component: {fileID: 1129132310}
   - component: {fileID: 1129132309}
   - component: {fileID: 1129132308}
+  - component: {fileID: 1129132313}
   m_Layer: 6
   m_Name: Blue_RoundedBrick_Circle_02
   m_TagString: Peg
@@ -25389,6 +25814,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1129132313
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1129132306}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &1134448047
 GameObject:
   m_ObjectHideFlags: 0
@@ -26009,6 +26447,7 @@ GameObject:
   - component: {fileID: 1195956230}
   - component: {fileID: 1195956229}
   - component: {fileID: 1195956228}
+  - component: {fileID: 1195956233}
   m_Layer: 6
   m_Name: Blue_RoundedBrick_Circle_01
   m_TagString: Peg
@@ -26240,6 +26679,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1195956233
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1195956226}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 4
 --- !u!1 &1208379799
 GameObject:
   m_ObjectHideFlags: 0
@@ -27668,6 +28120,7 @@ GameObject:
   - component: {fileID: 1316667492}
   - component: {fileID: 1316667491}
   - component: {fileID: 1316667490}
+  - component: {fileID: 1316667495}
   m_Layer: 6
   m_Name: RoundedBlue_Circle_05
   m_TagString: Peg
@@ -27899,6 +28352,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1316667495
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1316667488}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &1325221056
 GameObject:
   m_ObjectHideFlags: 0
@@ -28418,6 +28884,7 @@ GameObject:
   - component: {fileID: 1339500421}
   - component: {fileID: 1339500420}
   - component: {fileID: 1339500419}
+  - component: {fileID: 1339500424}
   m_Layer: 6
   m_Name: Blue_RoundedBrick_Circle_02
   m_TagString: Peg
@@ -28649,6 +29116,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1339500424
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1339500417}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &1341070452
 GameObject:
   m_ObjectHideFlags: 0
@@ -29721,6 +30201,7 @@ GameObject:
   - component: {fileID: 1375945041}
   - component: {fileID: 1375945040}
   - component: {fileID: 1375945039}
+  - component: {fileID: 1375945044}
   m_Layer: 6
   m_Name: Blue_RoundedBrick_Circle_00
   m_TagString: Peg
@@ -29952,6 +30433,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1375945044
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375945037}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 4
 --- !u!1 &1377821963
 GameObject:
   m_ObjectHideFlags: 0
@@ -29966,6 +30460,7 @@ GameObject:
   - component: {fileID: 1377821967}
   - component: {fileID: 1377821966}
   - component: {fileID: 1377821965}
+  - component: {fileID: 1377821970}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Circle_13
   m_TagString: Peg
@@ -30170,6 +30665,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1377821970
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1377821963}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &1384797528
 GameObject:
   m_ObjectHideFlags: 0
@@ -30992,6 +31500,7 @@ GameObject:
   - component: {fileID: 1416444334}
   - component: {fileID: 1416444333}
   - component: {fileID: 1416444332}
+  - component: {fileID: 1416444337}
   m_Layer: 6
   m_Name: RoundedBlue_Circle_03
   m_TagString: Peg
@@ -31223,6 +31732,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1416444337
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1416444330}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &1421902320
 GameObject:
   m_ObjectHideFlags: 0
@@ -31338,6 +31860,7 @@ GameObject:
   - component: {fileID: 1427900936}
   - component: {fileID: 1427900935}
   - component: {fileID: 1427900934}
+  - component: {fileID: 1427900939}
   m_Layer: 6
   m_Name: Blue_RoundedBrick_Circle_04 (1)
   m_TagString: Peg
@@ -31569,6 +32092,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1427900939
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1427900932}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 4
 --- !u!1001 &1441122769
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -31660,6 +32196,7 @@ GameObject:
   - component: {fileID: 1447673095}
   - component: {fileID: 1447673094}
   - component: {fileID: 1447673093}
+  - component: {fileID: 1447673098}
   m_Layer: 6
   m_Name: Blue_RoundedBrick_Circle_06
   m_TagString: Peg
@@ -31891,6 +32428,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1447673098
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1447673091}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &1465580356
 GameObject:
   m_ObjectHideFlags: 0
@@ -32713,6 +33263,7 @@ GameObject:
   - component: {fileID: 1501799967}
   - component: {fileID: 1501799966}
   - component: {fileID: 1501799965}
+  - component: {fileID: 1501799970}
   m_Layer: 6
   m_Name: RoundedBlue_Circle_09
   m_TagString: Peg
@@ -32944,6 +33495,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1501799970
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1501799963}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 4
 --- !u!1 &1509160619
 GameObject:
   m_ObjectHideFlags: 0
@@ -33766,6 +34330,7 @@ GameObject:
   - component: {fileID: 1529643231}
   - component: {fileID: 1529643230}
   - component: {fileID: 1529643229}
+  - component: {fileID: 1529643234}
   m_Layer: 6
   m_Name: RoundedOrange_Circle_01
   m_TagString: Peg
@@ -33997,6 +34562,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1529643234
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1529643227}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &1532541044
 GameObject:
   m_ObjectHideFlags: 0
@@ -34011,6 +34589,7 @@ GameObject:
   - component: {fileID: 1532541048}
   - component: {fileID: 1532541047}
   - component: {fileID: 1532541046}
+  - component: {fileID: 1532541051}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Circle_11
   m_TagString: Peg
@@ -34215,6 +34794,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1532541051
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1532541044}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &1533277171
 GameObject:
   m_ObjectHideFlags: 0
@@ -34264,6 +34856,8 @@ MonoBehaviour:
   lowBall: {fileID: 6200000, guid: b4389fa29ac4e3e42b54b233d3a2c714, type: 2}
   ballTag: Ball
   gravityScaleInside: 0
+  freezeRotationInside: 1
+  angularDragInside: 12
 --- !u!60 &1533277174
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -34760,6 +35354,7 @@ GameObject:
   - component: {fileID: 1563016740}
   - component: {fileID: 1563016739}
   - component: {fileID: 1563016738}
+  - component: {fileID: 1563016743}
   m_Layer: 6
   m_Name: RoundedOrange_Circle_10 (1)
   m_TagString: Peg
@@ -34991,6 +35586,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1563016743
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1563016736}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 4
 --- !u!1 &1564197879
 GameObject:
   m_ObjectHideFlags: 0
@@ -35005,6 +35613,7 @@ GameObject:
   - component: {fileID: 1564197883}
   - component: {fileID: 1564197882}
   - component: {fileID: 1564197881}
+  - component: {fileID: 1564197886}
   m_Layer: 6
   m_Name: Blue_RoundedBrick_Circle_05 (1)
   m_TagString: Peg
@@ -35236,6 +35845,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1564197886
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1564197879}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 4
 --- !u!1 &1564718445
 GameObject:
   m_ObjectHideFlags: 0
@@ -37169,6 +37791,7 @@ GameObject:
   - component: {fileID: 1655394889}
   - component: {fileID: 1655394888}
   - component: {fileID: 1655394887}
+  - component: {fileID: 1655394892}
   m_Layer: 6
   m_Name: Blue_RoundedBrick_Circle_06
   m_TagString: Peg
@@ -37400,6 +38023,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1655394892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1655394885}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 4
 --- !u!1 &1658044213
 GameObject:
   m_ObjectHideFlags: 0
@@ -38222,6 +38858,7 @@ GameObject:
   - component: {fileID: 1675706826}
   - component: {fileID: 1675706825}
   - component: {fileID: 1675706824}
+  - component: {fileID: 1675706829}
   m_Layer: 6
   m_Name: RoundedBlue_Circle_05
   m_TagString: Peg
@@ -38453,6 +39090,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1675706829
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1675706822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &1679439415
 GameObject:
   m_ObjectHideFlags: 0
@@ -39073,6 +39723,7 @@ GameObject:
   - component: {fileID: 1707190270}
   - component: {fileID: 1707190269}
   - component: {fileID: 1707190268}
+  - component: {fileID: 1707190273}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Circle_02
   m_TagString: Peg
@@ -39277,6 +39928,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1707190273
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1707190266}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &1707647443
 GameObject:
   m_ObjectHideFlags: 0
@@ -39291,6 +39955,7 @@ GameObject:
   - component: {fileID: 1707647447}
   - component: {fileID: 1707647446}
   - component: {fileID: 1707647445}
+  - component: {fileID: 1707647450}
   m_Layer: 6
   m_Name: Blue_RoundedBrick_Circle_06 (1)
   m_TagString: Peg
@@ -39522,6 +40187,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1707647450
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1707647443}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 4
 --- !u!1 &1709157720
 GameObject:
   m_ObjectHideFlags: 0
@@ -40950,6 +41628,7 @@ GameObject:
   - component: {fileID: 1820592585}
   - component: {fileID: 1820592584}
   - component: {fileID: 1820592583}
+  - component: {fileID: 1820592588}
   m_Layer: 6
   m_Name: RoundedBlue_Circle_11 (1)
   m_TagString: Peg
@@ -41181,6 +41860,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1820592588
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1820592581}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 4
 --- !u!1 &1822203663
 GameObject:
   m_ObjectHideFlags: 0
@@ -43316,6 +44008,7 @@ GameObject:
   - component: {fileID: 1925708590}
   - component: {fileID: 1925708589}
   - component: {fileID: 1925708588}
+  - component: {fileID: 1925708593}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Circle_01
   m_TagString: Peg
@@ -43520,6 +44213,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1925708593
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1925708586}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &1929281069
 GameObject:
   m_ObjectHideFlags: 0
@@ -43670,6 +44376,8 @@ MonoBehaviour:
   lowBall: {fileID: 6200000, guid: b4389fa29ac4e3e42b54b233d3a2c714, type: 2}
   ballTag: Ball
   gravityScaleInside: 0
+  freezeRotationInside: 1
+  angularDragInside: 12
 --- !u!60 &1935732801
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -43888,6 +44596,7 @@ GameObject:
   - component: {fileID: 1939388669}
   - component: {fileID: 1939388668}
   - component: {fileID: 1939388667}
+  - component: {fileID: 1939388672}
   m_Layer: 6
   m_Name: RoundedBlue_Circle_03
   m_TagString: Peg
@@ -44119,6 +44828,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1939388672
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1939388665}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &1943507488
 GameObject:
   m_ObjectHideFlags: 0
@@ -44335,6 +45057,7 @@ GameObject:
   - component: {fileID: 1943833005}
   - component: {fileID: 1943833004}
   - component: {fileID: 1943833003}
+  - component: {fileID: 1943833008}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Circle_05
   m_TagString: Peg
@@ -44539,6 +45262,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1943833008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1943833001}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &1946601917
 GameObject:
   m_ObjectHideFlags: 0
@@ -44553,6 +45289,7 @@ GameObject:
   - component: {fileID: 1946601921}
   - component: {fileID: 1946601920}
   - component: {fileID: 1946601919}
+  - component: {fileID: 1946601924}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Circle_04
   m_TagString: Peg
@@ -44757,6 +45494,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1946601924
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1946601917}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 3
 --- !u!1 &1952656889
 GameObject:
   m_ObjectHideFlags: 0
@@ -45108,6 +45858,7 @@ GameObject:
   - component: {fileID: 1962985969}
   - component: {fileID: 1962985968}
   - component: {fileID: 1962985967}
+  - component: {fileID: 1962985972}
   m_Layer: 6
   m_Name: Blue_RoundedBrick_Circle_07 (1)
   m_TagString: Peg
@@ -45339,6 +46090,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1962985972
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1962985965}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 4
 --- !u!1 &1964046520
 GameObject:
   m_ObjectHideFlags: 0
@@ -46499,6 +47263,8 @@ MonoBehaviour:
   lowBall: {fileID: 6200000, guid: b4389fa29ac4e3e42b54b233d3a2c714, type: 2}
   ballTag: Ball
   gravityScaleInside: 0
+  freezeRotationInside: 1
+  angularDragInside: 12
 --- !u!58 &2020198381
 CircleCollider2D:
   m_ObjectHideFlags: 0

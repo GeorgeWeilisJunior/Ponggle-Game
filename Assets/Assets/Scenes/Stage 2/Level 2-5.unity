@@ -540,6 +540,7 @@ GameObject:
   - component: {fileID: 8051016}
   - component: {fileID: 8051015}
   - component: {fileID: 8051014}
+  - component: {fileID: 8051019}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Line_06
   m_TagString: Peg
@@ -744,6 +745,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &8051019
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8051012}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &30650891
 GameObject:
   m_ObjectHideFlags: 0
@@ -758,6 +772,7 @@ GameObject:
   - component: {fileID: 30650895}
   - component: {fileID: 30650894}
   - component: {fileID: 30650893}
+  - component: {fileID: 30650898}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Line_10
   m_TagString: Peg
@@ -962,6 +977,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &30650898
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 30650891}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &33248395
 GameObject:
   m_ObjectHideFlags: 0
@@ -976,6 +1004,7 @@ GameObject:
   - component: {fileID: 33248399}
   - component: {fileID: 33248398}
   - component: {fileID: 33248397}
+  - component: {fileID: 33248402}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Line_05
   m_TagString: Peg
@@ -1180,6 +1209,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &33248402
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 33248395}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &38991335
 GameObject:
   m_ObjectHideFlags: 0
@@ -1194,6 +1236,7 @@ GameObject:
   - component: {fileID: 38991339}
   - component: {fileID: 38991338}
   - component: {fileID: 38991337}
+  - component: {fileID: 38991342}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Line_11
   m_TagString: Peg
@@ -1398,6 +1441,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &38991342
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 38991335}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &48176958
 GameObject:
   m_ObjectHideFlags: 0
@@ -2735,6 +2791,7 @@ GameObject:
   - component: {fileID: 110415871}
   - component: {fileID: 110415870}
   - component: {fileID: 110415869}
+  - component: {fileID: 110415874}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Line_08
   m_TagString: Peg
@@ -2939,6 +2996,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &110415874
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 110415867}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &126770178
 GameObject:
   m_ObjectHideFlags: 0
@@ -9195,6 +9265,7 @@ GameObject:
   - component: {fileID: 454217891}
   - component: {fileID: 454217890}
   - component: {fileID: 454217889}
+  - component: {fileID: 454217894}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Line_01
   m_TagString: Peg
@@ -9399,6 +9470,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &454217894
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 454217887}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &460766047
 GameObject:
   m_ObjectHideFlags: 0
@@ -11332,6 +11416,7 @@ GameObject:
   - component: {fileID: 556836956}
   - component: {fileID: 556836955}
   - component: {fileID: 556836954}
+  - component: {fileID: 556836959}
   m_Layer: 0
   m_Name: BrickOrange_Idle 1_Line_04
   m_TagString: Peg
@@ -11536,6 +11621,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &556836959
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 556836952}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &561952106
 GameObject:
   m_ObjectHideFlags: 0
@@ -12560,6 +12658,7 @@ GameObject:
   - component: {fileID: 614172473}
   - component: {fileID: 614172472}
   - component: {fileID: 614172471}
+  - component: {fileID: 614172476}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Line_10
   m_TagString: Peg
@@ -12764,6 +12863,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &614172476
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 614172469}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &616889185
 GameObject:
   m_ObjectHideFlags: 0
@@ -17205,6 +17317,7 @@ GameObject:
   - component: {fileID: 936248518}
   - component: {fileID: 936248517}
   - component: {fileID: 936248516}
+  - component: {fileID: 936248521}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Line_03
   m_TagString: Peg
@@ -17409,6 +17522,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &936248521
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 936248514}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &950307794
 GameObject:
   m_ObjectHideFlags: 0
@@ -18736,6 +18862,7 @@ GameObject:
   - component: {fileID: 1031731905}
   - component: {fileID: 1031731904}
   - component: {fileID: 1031731903}
+  - component: {fileID: 1031731908}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Line_09
   m_TagString: Peg
@@ -18940,6 +19067,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1031731908
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1031731901}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &1035094062
 GameObject:
   m_ObjectHideFlags: 0
@@ -19964,6 +20104,7 @@ GameObject:
   - component: {fileID: 1069865425}
   - component: {fileID: 1069865424}
   - component: {fileID: 1069865423}
+  - component: {fileID: 1069865428}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Line_00
   m_TagString: Peg
@@ -20168,6 +20309,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1069865428
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1069865421}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &1080243080
 GameObject:
   m_ObjectHideFlags: 0
@@ -20283,6 +20437,7 @@ GameObject:
   - component: {fileID: 1083607822}
   - component: {fileID: 1083607821}
   - component: {fileID: 1083607820}
+  - component: {fileID: 1083607825}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Line_02
   m_TagString: Peg
@@ -20487,6 +20642,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1083607825
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1083607818}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &1083701557
 GameObject:
   m_ObjectHideFlags: 0
@@ -22824,6 +22992,7 @@ GameObject:
   - component: {fileID: 1268446299}
   - component: {fileID: 1268446298}
   - component: {fileID: 1268446297}
+  - component: {fileID: 1268446302}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Line_06
   m_TagString: Peg
@@ -23028,6 +23197,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1268446302
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1268446295}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &1269986796
 GameObject:
   m_ObjectHideFlags: 0
@@ -23749,6 +23931,7 @@ GameObject:
   - component: {fileID: 1295259075}
   - component: {fileID: 1295259074}
   - component: {fileID: 1295259073}
+  - component: {fileID: 1295259078}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Line_00
   m_TagString: Peg
@@ -23953,6 +24136,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1295259078
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1295259071}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &1296985274
 GameObject:
   m_ObjectHideFlags: 0
@@ -23967,6 +24163,7 @@ GameObject:
   - component: {fileID: 1296985278}
   - component: {fileID: 1296985277}
   - component: {fileID: 1296985276}
+  - component: {fileID: 1296985281}
   m_Layer: 0
   m_Name: BrickOrange_Idle 1_Line_04
   m_TagString: Peg
@@ -24171,6 +24368,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1296985281
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1296985274}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &1300387470
 GameObject:
   m_ObjectHideFlags: 0
@@ -29009,6 +29219,7 @@ GameObject:
   - component: {fileID: 1464162146}
   - component: {fileID: 1464162145}
   - component: {fileID: 1464162144}
+  - component: {fileID: 1464162149}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Line_07
   m_TagString: Peg
@@ -29213,6 +29424,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1464162149
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1464162142}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &1466395384
 GameObject:
   m_ObjectHideFlags: 0
@@ -31550,6 +31774,7 @@ GameObject:
   - component: {fileID: 1555231883}
   - component: {fileID: 1555231882}
   - component: {fileID: 1555231881}
+  - component: {fileID: 1555231886}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Line_03
   m_TagString: Peg
@@ -31754,6 +31979,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1555231886
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1555231879}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &1558179947
 GameObject:
   m_ObjectHideFlags: 0
@@ -33081,6 +33319,7 @@ GameObject:
   - component: {fileID: 1630034826}
   - component: {fileID: 1630034825}
   - component: {fileID: 1630034824}
+  - component: {fileID: 1630034829}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Line_02
   m_TagString: Peg
@@ -33285,6 +33524,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1630034829
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1630034822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &1636107988
 GameObject:
   m_ObjectHideFlags: 0
@@ -33804,6 +34056,7 @@ GameObject:
   - component: {fileID: 1662918850}
   - component: {fileID: 1662918849}
   - component: {fileID: 1662918848}
+  - component: {fileID: 1662918853}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Line_05
   m_TagString: Peg
@@ -34008,6 +34261,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1662918853
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1662918846}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &1663953462
 GameObject:
   m_ObjectHideFlags: 0
@@ -35840,6 +36106,7 @@ GameObject:
   - component: {fileID: 1787261187}
   - component: {fileID: 1787261186}
   - component: {fileID: 1787261185}
+  - component: {fileID: 1787261190}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Line_11
   m_TagString: Peg
@@ -36044,6 +36311,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1787261190
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1787261183}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &1796425876
 GameObject:
   m_ObjectHideFlags: 0
@@ -36260,6 +36540,7 @@ GameObject:
   - component: {fileID: 1833465565}
   - component: {fileID: 1833465564}
   - component: {fileID: 1833465563}
+  - component: {fileID: 1833465568}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Line_08
   m_TagString: Peg
@@ -36464,6 +36745,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1833465568
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1833465561}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &1835136442
 GameObject:
   m_ObjectHideFlags: 0
@@ -38775,6 +39069,7 @@ GameObject:
   - component: {fileID: 1939967185}
   - component: {fileID: 1939967184}
   - component: {fileID: 1939967183}
+  - component: {fileID: 1939967188}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Line_01
   m_TagString: Peg
@@ -38979,6 +39274,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1939967188
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1939967181}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &1944204975
 GameObject:
   m_ObjectHideFlags: 0
@@ -40315,6 +40623,7 @@ GameObject:
   - component: {fileID: 2015386462}
   - component: {fileID: 2015386461}
   - component: {fileID: 2015386460}
+  - component: {fileID: 2015386465}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Line_07
   m_TagString: Peg
@@ -40519,6 +40828,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &2015386465
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2015386458}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &2020101947
 GameObject:
   m_ObjectHideFlags: 0
@@ -42388,6 +42710,7 @@ GameObject:
   - component: {fileID: 2117318303}
   - component: {fileID: 2117318302}
   - component: {fileID: 2117318301}
+  - component: {fileID: 2117318306}
   m_Layer: 0
   m_Name: BrickBlue_Idle_Line_09
   m_TagString: Peg
@@ -42592,6 +42915,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &2117318306
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2117318299}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a615cb4db4394b04ba543722d2d46557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  family: 2
 --- !u!1 &2119595479
 GameObject:
   m_ObjectHideFlags: 0
