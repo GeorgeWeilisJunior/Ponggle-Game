@@ -5135,6 +5135,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 820157333}
+  - component: {fileID: 820157334}
   m_Layer: 5
   m_Name: 'TitleRoot '
   m_TagString: Untagged
@@ -5164,6 +5165,21 @@ RectTransform:
   m_AnchoredPosition: {x: -531, y: 451}
   m_SizeDelta: {x: -1224.8, y: -866.09985}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &820157334
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 820157332}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d77454e854f3dc04f93e634a93aac52b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  clicksToTrigger: 5
+  maxIntervalBetweenClicks: 1.5
+  easterEggSceneName: Easter Egg
 --- !u!1 &823645565
 GameObject:
   m_ObjectHideFlags: 0
@@ -7526,6 +7542,12 @@ MonoBehaviour:
     randomizePitch: 0
     pitchRange: 0
   - key: Music_Gameplay_Stage5
+    clip: {fileID: 8300000, guid: 90dcc5772d8d6f943945b5620d97cdb7, type: 3}
+    volume: 0.2
+    pitch: 1
+    randomizePitch: 0
+    pitchRange: 0
+  - key: Music_EasterEgg
     clip: {fileID: 8300000, guid: 90dcc5772d8d6f943945b5620d97cdb7, type: 3}
     volume: 0.2
     pitch: 1

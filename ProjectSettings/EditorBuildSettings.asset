@@ -92,4 +92,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Assets/Scenes/Stage 5/Level 5-5.unity
     guid: 2bb8bc5f7c0cdf34babb4329baa479d1
+  - enabled: 1
+    path: Assets/Assets/Scenes/Easter Egg/Easter Egg.unity
+    guid: 2e57b2ce031a88c45bfcf8373d895466
   m_configObjects: {}
