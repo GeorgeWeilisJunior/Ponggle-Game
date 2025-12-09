@@ -1,5 +1,5 @@
 # Ponggle
-Skripsi Game varian Peggle
+Variant game from Peggle.
 There are a total of 25 levels in this game for now. Each level can be completed by destroying every orange peg that are scattered around the level.
 
 Use your chosen characters and their abilities by hitting the green pegs. Gain powerup cards each time you complete a level and bring it to the next level.
