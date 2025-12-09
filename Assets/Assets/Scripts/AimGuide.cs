@@ -105,8 +105,7 @@ public class AimGuide : MonoBehaviour
         DestroyImmediate(dummy.gameObject);
 
         // ⛳ radius real + sedikit margin (TANPA conservativeBias)
-        ballRadius = r * Mathf.Max(1f, radiusScale)
-                     + Mathf.Max(0f, radiusBias);
+        ballRadius = r * radiusScale + radiusBias;
     }
 
     Transform BuildEndBall()
