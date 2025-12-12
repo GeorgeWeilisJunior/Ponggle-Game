@@ -6,3 +6,6 @@ Use your chosen characters and their abilities by hitting the green pegs. Gain p
 Element reaction can be triggered by combining 2 elements. Try it out!
 
 Careful, there are pegs charateristics that makes the game more difficult each progress. Gain high score and clear all levels to unlock more characters!
+
+# HOW TO INSTALL?
+Download the build version called "Ponggle_Build", extract the folder, and play the Ponggle.exe game.
